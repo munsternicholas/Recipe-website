@@ -48,13 +48,12 @@ label.ring{
 	position: absolute;
 	display: flex;
 	justify-content: center;
-	padding-top: 20vw;
+	padding-top: 12vw;
 	z-index: 7;
 	
 }
 
 .btn-group{
-	padding-top: 8vw;
 	z-index: 10;
 }
 nav ul{
